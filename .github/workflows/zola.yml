@@ -24,7 +24,7 @@ jobs:
       - name: 'Build and deploy'
         uses: shalzz/zola-deploy-action@master
         env:
-          BUILD_DIR: .
+          BUILD_DIR: _site
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUILD_ONLY: true
       - name: Upload artifact
