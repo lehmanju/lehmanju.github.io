@@ -22,7 +22,7 @@ id = "lehmanju"
 bio = "Computer Scientist B.Sc."
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/lehmanju" },
-    { name = "Email", icon = "email", url = "mailto:julius@devpi.de" },
+    { name = "Email", icon = "email", url = "mailto:lehmanju@devpi.de" },
 ]
 
 homepage_layout = "about"             # "about" | "list"

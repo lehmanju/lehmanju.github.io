@@ -1,0 +1,7 @@
+[[project]]
+name = "corne-xiao"
+desc = "Corne keyboard with Seeeduino XIAO and Rust firmware"
+tags = ["keyboard", "rust", "hardware"]
+links = [
+  { name = "github", url = "https://github.com/lehmanju/corne-xiao" },
+]
